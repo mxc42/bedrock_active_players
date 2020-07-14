@@ -1,0 +1,20 @@
+{
+  "name": "active_players",
+  "version": "1.0.0",
+  "description": "nodejs server to watch the screen log of a jamesachambers bedrock server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxc42/bedrock_active_players.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxc42/bedrock_active_players/issues"
+  },
+  "homepage": "https://github.com/mxc42/bedrock_active_players#readme"
+}
